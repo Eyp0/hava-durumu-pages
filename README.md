@@ -15,4 +15,4 @@ Bu proje, OpenWeatherMap/Yandex Hava Durumu API'si kullanılarak anlık hava dur
 - HTML  
 - CSS  
 - JavaScript  
-- Yandex Weather API (veya OpenWeatherMap API)
+- Yandex Weather API
